@@ -1,4 +1,6 @@
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="073860f9-47a7-4088-8033-0227f2634316" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+👋 Hi there, I'm Miranda.
+
+[![CISSP](https://images.credly.com/size/110x110/images/6eeb0a98-33cb-4f72-bfc3-f89d65a3286c/image.png)](https://www.credly.com/badges/073860f9-47a7-4088-8033-0227f2634316/public_url)
 
 <!--
 **fiveneins/fiveneins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
